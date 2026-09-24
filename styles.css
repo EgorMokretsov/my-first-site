@@ -107,6 +107,12 @@ section p {
     color: var(--muted);
 }
 
+section a {
+    color: var(--blue);
+    font-weight: 700;
+    text-underline-offset: 0.2em;
+}
+
 .badge {
     display: inline-block;
     margin-bottom: 1rem;
